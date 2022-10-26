@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/MyPortfolio/static/js/main.cc195869.js",
+    "static/media/Profile_pic2.png": "/MyPortfolio/static/media/Profile_pic2.951d0ab240aa9142097d.png",
+    "static/media/IPaddress_App.png": "/MyPortfolio/static/media/IPaddress_App.7724cd9bd50c0c944fd3.png",
+    "static/media/REST_App.png": "/MyPortfolio/static/media/REST_App.81d176126bd0ca90abc7.png",
+    "static/media/styledcomponents_icon.png": "/MyPortfolio/static/media/styledcomponents_icon.0fefccb0a398bba44766.png",
+    "static/media/Advice_App.png": "/MyPortfolio/static/media/Advice_App.a7fa7c3d14f6f495ec42.png",
+    "static/media/Notes_App.png": "/MyPortfolio/static/media/Notes_App.f7fcd4146c884394c199.png",
+    "static/media/Calc_App.png": "/MyPortfolio/static/media/Calc_App.862cc8c1f4019487abc4.png",
+    "static/media/react.png": "/MyPortfolio/static/media/react.b19a7ea62269e54657b2.png",
+    "static/media/nodejs.png": "/MyPortfolio/static/media/nodejs.dce8e08041faab94b46f.png",
+    "static/media/html5.png": "/MyPortfolio/static/media/html5.6e4a5621783c3c8c0667.png",
+    "static/media/css3.png": "/MyPortfolio/static/media/css3.68ba79f50e3278164cb8.png",
+    "static/media/github.png": "/MyPortfolio/static/media/github.989e386339e7dd633cf1.png",
+    "static/media/vscode_icon.png": "/MyPortfolio/static/media/vscode_icon.ec838a12effc4ed07820.png",
+    "index.html": "/MyPortfolio/index.html",
+    "main.cc195869.js.map": "/MyPortfolio/static/js/main.cc195869.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cc195869.js"
+  ]
+}
